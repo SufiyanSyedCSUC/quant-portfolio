@@ -1,0 +1,7 @@
+name: "quant-portfolio"
+output_dir: "."
+navbar:
+  title: "Sufiyan's Quantitative Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
